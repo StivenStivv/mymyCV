@@ -1,0 +1,7 @@
+Nama        : Stiven
+NIM         : 22200017
+Prodi       : Bisnis Digital
+Mata Kuliah : Pemrograman Web Lanjutan
+
+-> menggunakan Bootstrap 5.2
+-> informasi CV diambil dari tugas CV yang sudah ada
